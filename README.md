@@ -1,7 +1,6 @@
 # Trabajo de profundización
 
-link al repositorio: 
-
+link al repositorio: https://github.com/Jacobo24/Trabajo_profundizacion.git
 
 La aritmética modular es un área interesante de las matemáticas que se ocupa de las operaciones y propiedades de los números congruentes módulo un número dado. Aquí tienes algunos problemas, juegos y pasatiempos curiosos relacionados con la aritmética modular:
 
